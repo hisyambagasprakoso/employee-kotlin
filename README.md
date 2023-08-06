@@ -1,5 +1,5 @@
-## Backend = crud
-## Frontend = employee-react
+## Backend : crud
+## Frontend : employee-react
 
 ## Cridential
 ### email : admin@gmail.com
