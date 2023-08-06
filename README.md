@@ -1,7 +1,7 @@
 ## Backend : crud
 ## Frontend : employee-react
 
-## Cridential
+## Credential
 ### email : admin@gmail.com
 ### password : Admin123
 
